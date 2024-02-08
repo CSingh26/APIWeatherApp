@@ -106,3 +106,11 @@ body {
 .win {
     margin-top: 10px;
 }
+
+.weather {
+    display: none;
+}
+
+.error {
+    display: none;
+}
